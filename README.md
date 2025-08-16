@@ -23,4 +23,6 @@ The challenge is to analyze Rohan’s 2023 social media performance data to iden
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
+## Dashboard
+
 
