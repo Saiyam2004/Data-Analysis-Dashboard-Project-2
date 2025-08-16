@@ -6,3 +6,21 @@ The challenge is to analyze Rohan’s 2023 social media performance data to iden
 
 ## Dataset used
 - <a href="https://github.com/Saiyam2004/Data-Analysis-Dashboard-Project-2/blob/main/Social%20Media%20Engagement.xlsx">Dataset</a>
+
+## Questions (KPIs)
+- On which platform (Facebook, Instagram, Twitter) did Rohan receive the highest engagement (likes + shares + comments)?
+- Which type of post (Video, Carousel, Image, Text, Poll) gives the highest engagement rate?
+- In which month was the engagement rate highest and lowest?
+- How does sentiment vary across platforms or post types?
+- On which day of the week does Rohan’s audience engage the most?
+- Which platform + post type combination gives the best ROI (Return on Investment) for his efforts?
+
+  - Dashboard Interaction <a href="">View Dashboard</a>
+
+## Process
+- Verify data for any missing values and anomalies, and sort out the same.
+- Made sure data is consistent and clean with respect to data type, data format and values used.
+- Created pivot tables according to the questions asked.
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
+
