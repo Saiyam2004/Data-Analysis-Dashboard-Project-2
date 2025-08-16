@@ -15,7 +15,7 @@ The challenge is to analyze Rohan’s 2023 social media performance data to iden
 - On which day of the week does Rohan’s audience engage the most?
 - Which platform + post type combination gives the best ROI (Return on Investment) for his efforts?
 
-  - Dashboard Interaction <a href="https://github.com/Saiyam2004/Data-Analysis-Dashboard-Project-2/blob/main/Social%20Media%20Engagement.png">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/Saiyam2004/Data-Analysis-Dashboard-Project-2/blob/main/Social%20Media%20Engagement.png">View Dashboard</a>
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
