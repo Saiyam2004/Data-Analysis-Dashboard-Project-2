@@ -24,5 +24,18 @@ The challenge is to analyze Rohan’s 2023 social media performance data to iden
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard
+<img width="1690" height="742" alt="Social Media Engagement" src="https://github.com/user-attachments/assets/21b60f7f-1208-4244-9187-277132618f75" />
+
+## Project Insight
+- Total Posts: 100  || Total Likes: 238,181  || Total Comments: 20,266  ||  Total Shares: 41,565
+- Instagram gives the highest ROI for Rohan’s effort. Twitter shows lowest engagement.
+- Rohan should focus more on Video + Carousel content.
+- Posting during midweek and mid-year months boosts ROI.
+- Majority of followers respond positively, but negative comments are not negligible. Rohan should monitor feedback and adjust content to reduce negativity.
+- Rohan should reduce low-performing formats and invest more effort into video/carousel content on Instagram.
+
+## Final Conclusion:
+The analysis clearly shows that Rohan’s growth challenge does not lie in lack of effort, but in choosing the right content for the right platform. By focusing on high-performing formats such as videos and carousels, and leveraging Instagram as the primary growth driver, Rohan can significantly accelerate his engagement. Posting strategically during midweek and optimizing content based on audience sentiment will further maximize ROI. Instead of spreading energy across low-performing platforms like Twitter, concentrating efforts on channels and formats with proven success ensures faster growth in likes, comments, shares, and followers. This data-driven strategy provides Rohan with a clear roadmap to transform his content creation journey into measurable success.
+
 
 
